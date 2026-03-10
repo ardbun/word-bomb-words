@@ -552,10 +552,35 @@ house
 how
 human
 goat
+rotate
+rotation
+triangle
+square
+rectangle
+square
+triangular
 ice
 idea
 if
 ill
+inform
+attribute
+attribution
+discomfort
+comfort
+security
+safety
+heuristic
+altruism
+consent
+esteem
+disorder
+psychology
+behavior
+behavioral
+confirmation
+confirm
+confirmed
 image
 imagine
 tranquil
@@ -1915,5 +1940,6 @@ over
 popsicle
 rub
 rubber
+
 
 
