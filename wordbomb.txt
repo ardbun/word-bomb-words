@@ -2,6 +2,12 @@ hello
 hill
 vexation
 snoop
+axe
+taxed
+taxes
+waxed
+coaxer
+unrelaxed
 snoops
 nuclear
 planet
@@ -1891,3 +1897,4 @@ over
 popsicle
 rub
 rubber
+
