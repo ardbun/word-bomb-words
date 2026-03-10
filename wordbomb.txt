@@ -8,7 +8,6 @@ washington
 joyance
 cyanine
 biryani
-yandies
 buoyant
 aleye
 agley
@@ -1961,6 +1960,7 @@ over
 popsicle
 rub
 rubber
+
 
 
 
