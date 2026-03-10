@@ -1,5 +1,24 @@
 hello
 hill
+vexation
+convex
+vexil
+vexing
+exert
+sheep
+eel
+eery
+beetle
+rupee
+spree
+khaki
+old
+ollie
+oldish
+mixology
+story
+tale
+olive
 hills
 hipster
 go
@@ -1497,4 +1516,5 @@ wilful
 wilder
 wildest
 zenith
+
 
