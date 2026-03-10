@@ -3,6 +3,24 @@ hill
 vexation
 snoop
 axe
+oregon
+washington
+joyance
+cyanine
+biryani
+yandies
+buoyant
+aleye
+agley
+alley
+alleycat
+berly
+bawley
+google
+gone
+goggles
+goggle
+troll
 taxed
 taxes
 waxed
@@ -874,6 +892,7 @@ net
 network
 never
 new
+cooling
 news
 next
 nice
@@ -884,6 +903,8 @@ north
 nose
 note
 notice
+trolley
+volleyball
 number
 nurse
 objects
@@ -1940,6 +1961,7 @@ over
 popsicle
 rub
 rubber
+
 
 
 
