@@ -9,6 +9,13 @@ principle
 principal
 ogre
 vaccine
+torso
+toward
+motor
+history
+factor
+factory
+
 rebel
 rebellious
 tide
@@ -2257,6 +2264,7 @@ over
 popsicle
 rub
 rubber
+
 
 
 
