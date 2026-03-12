@@ -7,6 +7,14 @@ refs
 dean
 principle
 principal
+coo
+diddle
+doodle
+doodles
+doodling
+banish
+banished
+banishment
 ogre
 vaccine
 torso
@@ -2424,6 +2432,7 @@ over
 popsicle
 rub
 rubber
+
 
 
 
